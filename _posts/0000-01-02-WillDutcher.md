@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is new text. Nothing important here!
+This is Will Dutcher's slide.
 Use the left arrow to go back!
